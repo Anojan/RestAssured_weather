@@ -1,0 +1,4 @@
+INDEX VERSION 1.3+/Users/manokugan/Documents/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4167336600.index
+374527296.index
+467689109.index

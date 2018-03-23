@@ -1,0 +1,18 @@
+Feature: Search Products
+
+Background: 
+Given Ebay Page is Loaded
+
+Scenario: Search Product1 in Ebay
+When Search Product "Plain white coffee mug"
+Then Choose the option
+Then Add the option to cart
+
+Scenario: Search Product2 in Ebay
+When Search Product "Black Sunglass unisex" 
+Then Choose the option
+Then Add the option to cart
+
+#Scenario: View Cart 
+#When I click viewCart icon
+#Then The items "Plain white coffee mug" and "Black Sunglass unisex" are available
